@@ -1,0 +1,56 @@
+TODO Features:
+[X] Move date thing to top
+[X] Add layer selection
+[X] Add custom features
+[X] Add LLM Integration
+    [X] Add Chat saving 1
+    [X] Add context integration
+    [!] Add authentication and lock down Chat 1
+[!] Add the two plots
+[!] Add price model
+[X] Add popup info
+[X] Add historical viewage
+[!] Get it ready for deployment i.e. remove production todos 2
+    [X] Add Branding and icons 1
+    [!] Add about us and privacy page 1
+    [!] Add service worker and make sure that the app remains online 2
+    [!] Retrain models on more data other than just 2024 2
+    [!] Add S3 storage for temp stuff
+    [!] Add themes
+    [!] Add retries and other reliability measures
+    [!] Adapt for smaller screen sizes
+    [!] Fix worker reliability
+[ ] Get it ready for video
+    [#] Retrain models
+    [X] Add themes
+    [ ] Adapt for smaller screen sizes
+    [X] Add branding, about us, and privacy policy
+    [X] Add icons
+    [!] Fix queries taking too long to work *
+    [ ] Add help buttons
+    [ ] Fix datebar
+    [ ] Fix buttons
+    [ ] Add predicted marker on plot and timelinep
+[X] Implement new UI Controls
+    [X] Implement date
+    [X] Fix UI styling on Date
+    [X] Implement new UI controls in features bar
+
+Clean Up Everything:
+[!] Make Map Cursors
+[X] Center map to MISO 
+[!] Make custom features edit controls work
+[X] Make the layer show checkboxes work
+[X] Add line on all plots to indicate NOW and PREDICTED
+[X] Make boundary borders thicker on the LRZs
+[X] Plot unaffected original
+[?] Make demand type a
+
+Bugs:
+[X] Markers for features do not show
+[X] The maplibre controls are out of place
+[!] Worker occasionally houses incomplete data
+[X] Backend not work
+[!] Fix resizable at small screen sizes
+[X] Fix datebar
+[X] Cache the map results on the client
